@@ -4,11 +4,11 @@
 
 <br>
 <p>
-<h3> ‣ 💻 I’m currently learning Full Stack Web Development </h3>
+<p> ‣ 💻 I’m currently learning Full Stack Web Development </p>
 <br>
-<h3> ‣ 📫 How to reach me - https://www.linkedin.com/in/abhishekdixit2000 </h3>
+<p> ‣ 📫 How to reach me - https://www.linkedin.com/in/abhishekdixit2000 </p>
 <br>
-<h3> ‣ 💡 Fun fact - Crocodiles cannot stick their tongue out 🐊 </h3>
+<p> ‣ 💡 Fun fact - Crocodiles cannot stick their tongue out 🐊 </p>
 </p>
 <hr>
 
