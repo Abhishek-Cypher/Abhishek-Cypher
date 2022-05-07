@@ -2,9 +2,9 @@
  
 <p>
  <img align="right" src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/animation_github.gif" alt="Abhishek-Cypher" />
- <br>
 </p>
 
+<br>
 <p>
 <p> ‣ 💻 I’m currently learning Full Stack Web Development </p>
 <br>
