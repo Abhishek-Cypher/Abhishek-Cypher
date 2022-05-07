@@ -1,17 +1,10 @@
-<h1 align="center">Hey 👋 I'm Abhishek Dixit </h1>
-<h3 align="center">Student at JEC, Jabalpur </h3>
-
-<hr>
-
-<p align="right"> <h3> ⚡ Profile Views </h3> 
-    <img src="https://komarev.com/ghpvc/?username=Abhishek-Cypher&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Abhishek-Cypher" /> 
-  </p>
-
-
+<img src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/banner_github.jpg" alt="Abhishek-Cypher" />
+ 
+ <br>
+ 
 <p><img align="right" src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/animation_github.gif" alt="Abhishek-Cypher" /></p>
 
-
+<br>
 - 🌱 I’m currently learning Full Stack Web Development.
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhishekdixit2000/**
@@ -59,7 +52,14 @@
 
 <br>
 
+<p align="right"> <h3> ⚡ Profile Views </h3> 
+    <img src="https://komarev.com/ghpvc/?username=Abhishek-Cypher&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Abhishek-Cypher" /> 
+  </p>
+
+<br>
 [Abhishek-Cypher](https://github.com/Abhishek-Cypher)
+  
 
 <!---
 Abhishek-Cypher/Abhishek-Cypher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
