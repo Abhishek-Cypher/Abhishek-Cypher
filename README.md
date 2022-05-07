@@ -3,11 +3,11 @@
 <p><img align="right" src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/animation_github.gif" alt="Abhishek-Cypher" /></p>
 
 <br>
-‣ 🌱 I’m currently learning Full Stack Web Development.
+‣ 💻 I’m currently learning Full Stack Web Development.
 
 ‣ 📫 How to reach me **https://www.linkedin.com/in/abhishekdixit2000/**
 
-‣ ⚡ Fun fact - Crocodiles cannot stick their tongue out 🐊
+‣ 💡 Fun fact - Crocodiles cannot stick their tongue out 🐊
 
 <hr>
 
@@ -56,8 +56,7 @@
   </p>
 
 <br>
-[Abhishek-Cypher](https://github.com/Abhishek-Cypher)
-  
+<a href="https://github.com/Abhishek-Cypher">Abhishek-Cypher</a>
 
 <!---
 Abhishek-Cypher/Abhishek-Cypher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
