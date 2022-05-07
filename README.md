@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Abhishek Dixit </h1>
 <h3 align="center">Student at JEC, Jabalpur </h3>
 
-<br>
+<hr>
 
 <p align="right"> <h3> ⚡ Profile Views </h3> 
     <img src="https://komarev.com/ghpvc/?username=Abhishek-Cypher&label=Profile%20views&color=0e75b6&style=flat"
@@ -10,7 +10,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Abhishek-Cypher" /></p>
+<p><img align="top-right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Abhishek-Cypher" /></p>
 
 
 - 🌱 I’m currently learning Full Stack Web Development.
