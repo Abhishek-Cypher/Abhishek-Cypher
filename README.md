@@ -9,7 +9,7 @@
   </p>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Abhishek-Cypher" /></p>
+<p><img align="right" src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/animation_github.gif" alt="Abhishek-Cypher" /></p>
 
 
 - 🌱 I’m currently learning Full Stack Web Development.
