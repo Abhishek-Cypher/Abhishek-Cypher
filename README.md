@@ -3,12 +3,13 @@
 <p><img align="right" src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/animation_github.gif" alt="Abhishek-Cypher" /></p>
 
 <br>
+<p>
 ‣ 💻 I’m currently learning Full Stack Web Development.
 <br>
-‣ 📫 How to reach me **https://www.linkedin.com/in/abhishekdixit2000/**
+‣ 📫 How to reach me - **https://www.linkedin.com/in/abhishekdixit2000/**
 <br>
 ‣ 💡 Fun fact - Crocodiles cannot stick their tongue out 🐊
-
+</p>
 <hr>
 
 ### ⚡ Tech & Tools 
