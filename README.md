@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact - Crocodiles cannot stick their tongue out 🐊
 
-<br>
+<hr>
 
 ### ⚡ Tech & Tools 
 
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
-<br>
+<hr>
 
 <h3> ⚡ Statistical Data </h3>
 <p><img align="center"
