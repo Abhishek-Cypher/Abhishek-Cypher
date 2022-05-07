@@ -3,7 +3,8 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Abhishek-Cypher&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3> ⚡ Profile Views </h3> 
+    <img src="https://komarev.com/ghpvc/?username=Abhishek-Cypher&label=Profile%20views&color=0e75b6&style=flat"
     alt="Abhishek-Cypher" /> 
   </p>
 
@@ -20,7 +21,7 @@
 
 <br>
 
-### Tech & Tools 
+### ⚡ Tech & Tools 
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -36,13 +37,13 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
-### Languages I know
+### ⚡ Languages I know
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3> ⚡ Statistical Data </h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Cypher&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Abhishek-Cypher" 
