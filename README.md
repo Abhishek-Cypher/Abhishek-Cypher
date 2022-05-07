@@ -1,15 +1,13 @@
 <img src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/banner_github.jpg" alt="Abhishek-Cypher" />
  
- <br>
- 
 <p><img align="right" src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/animation_github.gif" alt="Abhishek-Cypher" /></p>
 
 <br>
-- 🌱 I’m currently learning Full Stack Web Development.
+‣ 🌱 I’m currently learning Full Stack Web Development.
 
-- 📫 How to reach me **https://www.linkedin.com/in/abhishekdixit2000/**
+‣ 📫 How to reach me **https://www.linkedin.com/in/abhishekdixit2000/**
 
-- ⚡ Fun fact - Crocodiles cannot stick their tongue out 🐊
+‣ ⚡ Fun fact - Crocodiles cannot stick their tongue out 🐊
 
 <hr>
 
@@ -50,7 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Cypher&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Abhishek-Cypher" /></p>
 
-<br>
+<hr>
 
 <p align="right"> <h3> ⚡ Profile Views </h3> 
     <img src="https://komarev.com/ghpvc/?username=Abhishek-Cypher&label=Profile%20views&color=0e75b6&style=flat"
