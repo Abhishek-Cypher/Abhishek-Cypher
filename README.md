@@ -1,4 +1,4 @@
-<img src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/banner_github.jpg" alt="Abhishek-Cypher" />
+<img src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/banner.jpg" alt="Abhishek-Cypher" />
  
 <p>
  <img align="right" src="https://github.com/Abhishek-Cypher/Abhishek-Cypher/blob/main/animation_github.gif" alt="Abhishek-Cypher" />
